@@ -1,0 +1,4 @@
+- [Sobre a comunidade](sobre.md)
+- [Perguntas frequenes](faq.md)
+- [Contato](contato.md)
+- [Código de conduta](codigo-de-conduta.md)
